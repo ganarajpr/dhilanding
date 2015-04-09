@@ -135,6 +135,11 @@ h6 {
     height: 100%;
 }
 
+.text-white{
+    color: #fff;
+    font-weight: 400;
+}
+
 .section-heading-spacer {
     float: left;
     width: 200px;
@@ -189,13 +194,18 @@ h6 {
     }
 }
 
+
+.btn-highlight{
+    background-color: #c7254e;
+    color: #fff;
+}
 a,
 a:hover{
     color: #c7254e;
 }
 
 footer {
-    padding: 50px 0;
+    padding: 20px 0;
     background-color: #f8f8f8;
 }
 
