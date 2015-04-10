@@ -196,6 +196,10 @@ h6 {
     ul.banner-social-buttons > li:last-child {
         margin-bottom: 0;
     }
+
+    .intro-header .logo-section.row{
+        text-align: center;
+    }
 }
 
 hr{
