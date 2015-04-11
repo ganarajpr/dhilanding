@@ -79,7 +79,7 @@ h6 {
     font-size: 4em;
     font-weight: 800;
     color: #fff;
-    border-bottom: 1px ridge #fff;
+    border-bottom: 2px dotted #fff;
 }
 
 .intro-message h2{
